@@ -1,0 +1,66 @@
+html {
+    font-family: Ubuntu, sans-serif;
+}
+
+.stylebox {
+    border: 1px solid black;
+    padding: 25px;
+    margin: 15px auto;
+}
+
+.color {
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+    color: black;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 26x;
+    font-family: Ubuntu, sans-serif;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Fira Sans", sans-serif;
+}
+
+.baby {
+    background-color: #8ED1FC;
+}
+
+.dryad {
+    background-color: #00FF84;
+}
+
+.royal {
+    background-color: #6929D8;
+}
+
+.ubuntu {
+    font-family: Ubuntu, sans-serif;
+}
+
+.fira {
+    font-family: "Fira Sans", sans-serif;
+}
+
+.vollkorn {
+    font-family: Vollkorn, serif;
+}
+
+.fonts h3 {
+    text-decoration: underline;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
